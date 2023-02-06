@@ -1,25 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: My name is Taiga Abe, and I am a graduate student with <a href='https://stat.columbia.edu/~cunningham/'>John Cunningham</a> at the <a href='https://ctn.zuckermaninstitute.columbia.edu'>Columbia University Center for Theoretical Neuroscience</a>. Please contact me via email at ta2507 [at] columbia.edu. 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Jerome L Greene Science Center, 6th Floor, Quad D</p>
+    <p>3227 Broadway</p>
+    <p>New York NU 10027</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My primary research interest is the development of reproducible and reliable data analysis tools, with a specific focus on problems in neuroscience. My graduate research has focused on two major projects along these themes:  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<b>A Cloud Computing Platform for Reproducible Data Analysis.</b> I am the lead researcher and developer for Neuroscience Cloud Analysis As A Service (NeuroCAAS), a computing platform that removes the burden of computing infrastructure from neuroscience researchers as they use and develop novel data analysis tools. Learn more about the project <a href='neurocaas.org'>here</a>.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<b>The Benefits and Limitations of Neural Network Ensembles.</b> Ensembling is a popular benchmark method to improve the performance of deep neural networks. My work on these "deep ensembles" studies more recent claims that ensembling also improves the reliability of neural network predictions, and investigates the proposed mechanisms behind their success.  
+
+Beyond research, I am an avid rock climber (primarily bouldering) and cellist (primarily chamber music). 
+
